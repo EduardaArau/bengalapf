@@ -51,9 +51,9 @@ Microcontrolador: Raspberry Pi Pico W
 Ambiente de Desenvolvimento: VS Code
 Biblioteca: Pico SDK
 
-# Demonstração da simulação
+# Video do projeto
 
-https://drive.google.com/file/d/1wZFWcI-cMzLAOc6zvvLt5WRMktsljuMU/view?usp=sharing
+https://drive.google.com/file/d/1I0MGAOIPRgQ-G6DlBaAC4ZLz-M-Pxe53/view?usp=sharing
 
 # Licença
 
